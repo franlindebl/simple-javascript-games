@@ -1,0 +1,56 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+  overflow: hidden;
+}
+
+#canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 85%;
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+  overflow: hidden;
+}
+
+#button-container {
+  position: absolute;
+  top: 85%;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 15%;
+  background: red;
+  position: relative;
+}
+
+.button {
+  display: inline-block;
+  height: 100%;
+  float: left;
+  font-size: 25px;
+  color: #ffffff;
+  border: none;
+}
+
+.move-left-button {
+  width: 25%;
+  background: #ec9e5b;
+  background-color: #34b1e0;
+}
+
+.fire-button {
+  width: 50%;
+  background: #ea5858;
+}
+
+.move-right-button {
+  width: 25%;
+  background-color: #34b1e0;
+}
