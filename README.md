@@ -2,6 +2,6 @@
 
 Este repo contiene 3 juegos:
 
-- [Snake](https://google.com)
-- [Marcianitos](https://google.com)
-- [Drag & Drop](https://google.com)
+- [Snake](https://franlindebl.github.io/simple-javascript-games/snake)
+- [Marcianitos](https://franlindebl.github.io/simple-javascript-games/space)
+- [Drag & Drop](https://franlindebl.github.io/simple-javascript-games/drag-drop)
